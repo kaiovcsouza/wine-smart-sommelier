@@ -1,6 +1,6 @@
 # Wine SMART Sommelier
 
-Um app baseado em aprendizado de máquina para predição de espécies da Iris.
+Um app baseado em aprendizado de máquina para predição de tipos de vinho.
 
 ## Instalação
 

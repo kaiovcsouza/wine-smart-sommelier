@@ -1,0 +1,8 @@
+Nome:
+KAIO VINICIUS CANDIDO DE SOUZA
+
+Github:
+https://github.com/kaiovcsouza/wine-smart-sommelier
+
+Heroku APP:
+https://wine-smart-sommelier.herokuapp.com/
